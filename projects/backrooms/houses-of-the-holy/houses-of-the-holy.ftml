@@ -1,0 +1,92 @@
+[!--
+Fragments:
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-0
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-1
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-2
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-3
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-4
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-5
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-6
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-7
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-8
+http://backrooms-wiki.wikidot.com/fragment:houses-of-the-holy-9
+--]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+[[/module]]
+
+[[module css]]
+.Janus {
+  font-family: "Sedan SC", sans-serif;
+}
+[[/module]]
+
+[[include :backrooms-wiki:component:offset-timeline
+|title=false
+]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:ital,wdth,wght@0,132.5,547;1,132.5,547&family=Sedan+SC&display=swap');
+[[/module]]
+
+[[module css]]
+.Morgana {
+  font-family: "Advent Pro", sans-serif;
+}
+[[/module]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:ital,wdth,wght@0,132.5,547;1,132.5,547&family=Bangers&family=Sedan+SC&family=Sriracha&display=swap');
+[[/module]]
+
+[[module css]]
+.Joey {
+  font-family: "Sriracha", cursive;
+}
+[[/module]]
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
+[[/module]]
+
+[[module css]]
+.Leo {
+  font-family: "Kavivanar", cursive;
+}
+[[/module]]
+
+
+[[include :backrooms-wiki:component:open cw=1]]
+
++ Content Warnings
+* Self Harm
+* Mild graphic imagery (in pertinence to the above warning)
+* Implied sexual abuse/coercion
+* General themes of depression and paranoia
+
+[[include :backrooms-wiki:component:close]]
+
+
+[[module ListPages category="fragment" parent="." limit="1" order="created_at" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[include :backrooms-wiki:component:license-box author=Spectre48]]
+
+> **File Name:spiral**
+> **Author: Spectre48**
+> **License: CC BY SA-3.0**
+> **Source Link:** http://backrooms-wiki.wdfiles.com/local--files/houses-of-the-holy/spiral.jpg
+> **Additional Notes:** drawn by yours truly, shoutout to deer if he's reading this out of pure spite for a drawn image in a backrooms page.
+
+> **Name:spiralsigil2**
+> **Author: Spectre48**
+> **License: CC BY SA-3.0**
+> **Source Link:** http://backrooms-wiki.wdfiles.com/local--files/houses-of-the-holy/spiralsigil2.jpg
+> **Derivative of:** spiral
+> **Additional Notes:** pretend I just wrote the same comment from above but funnier this time
+
+
+
+[[include :backrooms-wiki:component:license-box-end]]
