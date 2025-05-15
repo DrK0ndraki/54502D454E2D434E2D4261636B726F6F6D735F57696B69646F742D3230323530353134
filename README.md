@@ -33,10 +33,10 @@
     - **项目文件夹**: 每篇文章单独一个文件夹，例如 `level-1` 对应 Level 1。
       - **原文文件夹（EN/JP/KR...）**: 存放原文文本，文件夹名称使用语言代码（如 EN、JP、KR）。
         - **原文代码文件**: 原文代码文件（ftml 格式），文件名与链接一致。例如：`level-1.ftml` 对应 Level 1 的链接 `level-1`。
-        - **对于迭代文章**: 文件名使用 fragment 链接名，务必将链接中的冒号（:）替换为下划线（_）。例如：`fragment_defrag-0`，`fragment_defrag-1`。
+        - **对于迭代文章**: 文件名使用 fragment 链接名，务必将链接中的冒号（:）替换为下划线（_）。例如：`fragment_defrag-0.ftml`，`fragment_defrag-1.ftml`。
       - **译文文件夹（EN/JP/KR...）**: 存放译文文本，文件夹名称使用语言代码（如 EN、JP、KR）。
         - **译文代码文件**: 译文代码文件（ftml 格式），命名规则与原文相同。
-        - **对于迭代文章**: 文件名使用 fragment 链接名，链接中的冒号（:）替换为下划线（_）。例如：`fragment_defrag-0`，`fragment_defrag-1`。
+        - **对于迭代文章**: 文件名使用 fragment 链接名，链接中的冒号（:）替换为下划线（_）。例如：`fragment_defrag-0.ftml`，`fragment_defrag-1.ftml`。
       - **termbase.ini**: 项目自定义术语库，仅供 AI 修改参考，无其他用途。
     - **DIR_README.MD**: 项目文件夹的说明文档。注意：GitHub 不允许空文件夹，每级目录必须至少包含一个文件。
 - **README.MD**: 仓库的说明文档，请勿删除。
