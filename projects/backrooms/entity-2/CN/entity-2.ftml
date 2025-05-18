@@ -1,0 +1,419 @@
+[[include :backrooms-wiki-cn:theme:dark-liminal]]
+
+[[module css]]
+.images-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px;
+}
+
+@media only screen and (max-width: 750px) {
+  .images-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+[[/module]]
+
+
+[[include :backrooms-wiki-cn:credit:start]]
+
+[[=]]
+
+Re-written by [[[akirooms|DrAkimoto]]].
+
+[[size smaller]]The original author of this entry is an anonymous Fandom user, the creator of the original concept is from Reddit user  u/glassydude101.[[/size]]
+@@@@
+Images by: [[*user TheBearcrowave]], [[*user scutoid studios]], and myself.
+@@@@
+[[include :grave-box.wikidot.com:author-table-aki]]
+
+----
+Critique by:
+
+[[*user PrismaticMoose]]
+
+[[*user Robert Goerman]]
+
+[[*user scutoid studios]]
+
+[[*user TheBearcrowave]]
+
+[[*user DrJTC]]
+
+[[*user Red-eyes Dragoon]]
+[[/=]]
+
+[[include :backrooms-wiki-cn:credit:end]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+[[size 125%]]**Habitat:** Multilevel[[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size 125%]]**IETS**[[/size]]
+[[/cell]]
+[[/row]]
+[[row]]
+[[cell]]
+[[size 125%]]**Properties:** Itemic; Spectrous; Metaphysical [[/size]]
+[[/cell]]
+[[cell style="text-align: right;"]]
+[[size xx-large]]##orange|**4C**##[[/size]]
+[[/cell]]
+[[/row]]
+[[/table]]
+
+----
+
+[[image http://backrooms-wiki.wikidot.com/local--files/entity-2/window1 width="100%"]]
+
++ Description
+
+Entity 2, colloquially known as "Windows", are physical manifestations of a predatory thoughtspace[[footnote]] A thoughtspace is a metaphysical area within an individual's mind in which thoughts and concepts are created, visualized, and explored.[[/footnote]] composed of sustained, cognitive thought.
+
+These Windows are capable of manifesting on any surface, though they typically follow rudimentary architectural rules in regard to location, preferring walls to roofs or ceilings. Instances of Entity 2 often occupy the space of pre-existing mundane windows where present. They have been documented taking on a wide variety of shapes and styles, though they will usually manifest in a design suited for the level they appear in. Since these entities are immobile, once one has formed, it will remain in place until it reaches a "dying" state.
+
+Each Window will display a different landscape that typically bears no resemblance to the actual exterior of the wall when one is known to exist. These "images" are not intrinsic to the Entity 2 instances themselves and are instead conjured through human perception, to the extent that each individual viewing a Window will perceive a different landscape. Though they appear blurred and distorted, witnesses claim to have a feeling of familiarity with the location. It is theorized that this aspect of the entity is a form of visual hallucination brought on by the mind's inability to process a foreign thoughtspace.
+
+[[div class="blockquote"]]
+
++++ Occupied Windows
+
+[[include component:image-block
+    |name=http://backrooms-wiki.wikidot.com/local--files/entity-2/window2
+    |caption= An instances of Entity 2 on Level 13.
+
+]]
+
+Occupied Windows feature a dark, indistinct human silhouette within them. Survivors of Window encounters have claimed that the silhouette shared the appearance of someone they know, and in some cases, multiple people. It is believed that this, much like the landscape, is merely the perception of the witness. All photographic evidence shows a humanoid silhouette with few identifiable physical features.
+
+Newly created Occupied Windows have been reported to have a similar body shape and height to the individual who entered. Despite this fact, it is unknown whether the silhouettes still possess a physical body within the thoughtspace. Photographic evidence and witness testimony suggest that the silhouette may only be a visual representation of the individual who entered the entity while vacant.
+
+These silhouettes will slowly fade over time as they lose definition and opacity, eventually becoming unrecognizable from their previous appearance. Alternatively, instances will gain visual density after consuming a sentient victim[[footnote]]There have been two separate reports suggesting an instance of Entity 2 had consumed a Partygoer while it was in pursuit of the witnesses.[[/footnote]]. This has led to the theory that these entities can only maintain physical permanence by acquiring new victims.
+
+~~~~
+
+[[/div]]
+
+[[div class="styled-quote"]]
+
+##red|**WARNING**## — If you believe you have encountered a **vacant Entity 2 instance**, please **repeat any of the following phrases** in your mind as you **remove yourself from the area**:
+
+[[size smaller]]
+
+* "//I am here, and there is nothing I would do to change that.//"
+
+* "//I am content with my existence and my place within reality.//"
+
+* "//There is no way out, and I accept that.//"
+
+[[/size]]
+
+[[/div]]
+
+[[div class="blockquote"]]
+
++++ Vacant Windows
+
+Unoccupied Entity 2 instances have two distinct variants, "Newborn" Windows and "Dying" Windows, both of which pose a significant risk to wanderers.
+
+[[>]]
+
+++++ "Newborn" Windows
+
+[[/>]]
+
+[[include component:image-block
+
+    |name=http://backrooms-wiki.wikidot.com/local--files/entity-2/window3
+
+    |caption="Newborn" Window; Level 172.|
+
+    |align=left|
+
+]]
+
+These instances of Entity 2 have the typical characteristic of displaying a blurred, familiar landscape. Research and witness testimony propose that they are created at the instant of perception, formed by a deep desire to remove oneself from the reality of their current situation. Usually such an event occurs during times of great emotional instability, when longing for home, or when fleeing a threat. Once a Window has been manifested by an individual, they will feel a compulsory effect to enter their own thoughtspace. If you see one of these Windows it is important to stop and leave the area while reaffirming your existence. If successful, the manifestation will disappear over the course of several hours.
+
+> Researcher Jack Locke successfully created a vacant instance of Entity 2 while conducting research in [[[Level 881]]]. He did so by consuming a blend of sympathomimetic drugs to artificially stimulate his sympathetic nervous system[[footnote]]The nervous system attributed with controlling the body's "fight or flight" response.[[/footnote]], while looking at a mundane window and thinking of escaping the Backrooms.
+
+~~~~
+
+@@@@
+
+++++ "Dying" Windows
+
+[[include component:image-block
+
+    |name=hhttp://backrooms-wiki.wikidot.com/local--files/entity-2/window4
+
+    |caption="Dying" Window; Level 881
+    |align=right|
+]]
+
+Once the figure within a Window fully dissipates, the entity will grow increasingly unstable as it loses permanence and begins to collapse in on itself. While in a "dying" state, the area around the entity is extremely volatile; any human within a five to eight-meter radius has a significant chance of being violently displaced from reality. This process can occur over several hours up to a week after the initiation of the event before eventually vanishing entirely. Due to the rarity of finding a "dying" instance of Entity 2 and the danger posed by the encounter, information regarding the process is scarce.
+
+~~~~
+
+@@@@
+
+[[/div]]
+
+----
+
++ Behavior
+
+When a human is in the presence of a Window, the entity will attempt to communicate with the individual, both through vocalizations and hand gestures. The sounds associated with Entity 2 instances are not an observable phenomenon but more akin to telepathy and often perceived as comforting whispers by witnesses. It is assumed that these communications are employed by the entity as a means of luring the victim into closer proximity to the window. Once within a range of one to two meters, the Window will manifest a physical representation of an arm to grasp and pull the victim into itself.
+
+[[div_ class="images-grid"]]
+[[div]]
+[[include component:image-block
+
+    |name=http://backrooms-wiki.wikidot.com/local--files/entity-2/window6
+
+    |caption=Researcher Cúán S. being dragged into a Window during a research accident.
+    |align=center|
+]]
+[[/div]]
+[[div]]
+[[include component:image-block
+
+    |name=http://backrooms-wiki.wikidot.com/local--files/entity-2/window5
+
+    |caption=M.E.G. security personnel being grabbed by an instance of Entity 2 during an exploratory mission.
+    |align=center|
+]]
+[[/div]]
+[[/div]]
+
+
+
+
+~~~~
+@@@@
+
+----
+
++ Safety Protocols
+
+• When possible, avoid areas with excessive windows. Outdoor levels, or levels lacking walls, are significantly less likely to contain instances of Entity 2. There are typically fewer instances in areas with established bases or safe zones due to the majority of organizations covering windows in these locations.
+
+• Report any windows that appear to have anomalous properties to the nearest base or outpost. If deemed necessary, signage should be installed to warn wanderers to avoid the area.
+
+• Resist taking compulsive actions when observing a Window.
+
+• If you experience mental dissociation or a desire for it, then it is recommended to avoid locations with excessive windows while seeking mental health support from a professional or trusted individual until the feelings subside. Help is available through the M.E.G.'s Internal Support Program (I.S.P.) at several major bases[[footnote]]
+
+"Base Alpha" - [[[Level 1]]]
+
+"Base Omega" - [[[Level 4]]]
+
+"Base Gamma" - [[[Level 3]]]
+
+"Base Beta" - [[[Level 11]]]
+
+"Base Epsilon" - [[[Level 283]]]
+
+"Base Delta" - [[[Level 230]]][[/footnote]].
+
+~~~~
+
+----
+[[=]]
+@@@@
+@@@@
+
+[[include :backrooms-wiki-cn:component:footnotecol]]
+@@@@
+@@@@
+[[div class="footer-wikiwalk-nav"]]
+
+[[=]]
+
+<< [[[Entity 1]]] | Entity 2 | [[[Entity 3]]] >>
+
+[[/=]]
+
+[[/div]]
+
+----
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+[[div class="darkerblock"]]
+
+[[size larger]]
+
+//How long have I been standing here?//
+
+//Hours? Weeks? Years? I'm not sure.//
+
+//I don't know how I got here anymore.//
+
+[[/size]]
+
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="darkerblock"]]
+[[size larger]]
+
+//I can't even recall who or what I was before this.//
+
+//I just know I need to get away before I completely forget it all.//
+
+//It's erasing **everything**.//
+
+[[/size]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="darkerblock"]]
+[[size larger]]
+
+//But even after all I have lost//
+
+//I still remember that feeling.//
+
+//I wanted to leave that place so badly.//
+
+//Now I'd do **anything** to go back.//
+
+[[/size]]
+
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="darkerblock"]]
+[[size larger]]
+
+//It's peeling away my existence; we're becoming one.//
+
+//I don't know how much longer I can hold on. Someone **needs** to help me.//
+
+//If they can see me, then at least I know I'm not gone; that there's still hope.//
+
+[[/size]]
+
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="darkerblock"]]
+[[size larger]]
+
+//I always can tell when people wander the nearby halls.//
+
+//I can see their thoughts; they're so vibrant, so alive, I can almost taste them. I crave it.//
+
+//If they would just notice me, that could be enough.//
+
+//It **has** to be enough.//
+
+[[/size]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="darkerblock"]]
+[[size larger]]
+
+//I can feel one now; they yearn to escape.//
+
+//We should help each other.//
+
+//If I could just get them a little closer.//
+
+//I can **make** them help.//
+
+[[/size]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+----
+[[/=]]
+=====
+
+[[include :backrooms-wiki-cn:component:license-box]]
+
+> 名称：autumn window
+> 作者：David J
+> 授权协议：CC BY-SA 2.0
+> 来源链接：https://flic.kr/p/47pt1u
+> Note: Edited by The Bearcrowave
+
+
+> 名称：windows
+> 作者：Nick Mustoe
+> 授权协议：CC BY-SA 2.0
+> 来源链接：https://flic.kr/p/48J4bh
+> Note: Edited by The Bearcrowave
+
+> 名称：Sinton Windows
+> 作者：russellstreet; John Radford
+> 授权协议：CC BY-SA 2.0
+> 来源链接：https://flic.kr/p/aVHM7T
+> Edited by DrAkimoto
+
+> 名称：window 1
+> 作者：The Bearcrowave
+> 授权协议：CC BY-SA 4.0
+> 来源链接：This page
+
+> 名称：window 5
+> 作者：The Bearcrowave
+> 授权协议：CC BY-SA 4.0
+> 来源链接：This page
+
+> 名称：Empty Office / window 6
+> 作者：Mark Hillary
+> 授权协议：CC BY 2.0
+> 来源链接：https://flic.kr/p/7QYngX
+> Note: Edited by Scutoid Studios
+
+=====
+
+[[include :backrooms-wiki-cn:component:license-box-end]]
